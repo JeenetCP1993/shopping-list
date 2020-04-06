@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>item</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-06 14:28:17</sys_created_on>
+        <sys_data_policy display_value="Sets the Item field to mandatory">d32149852f405010d4bcdb9df699b6ec</sys_data_policy>
+        <sys_id>172149852f405010d4bcdb9df699b6ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="Shopping List" source="x_305360_shopping">ce1fb0c12f405010d4bcdb9df699b63d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">ce1fb0c12f405010d4bcdb9df699b63d</sys_scope>
+        <sys_update_name>sys_data_policy_rule_172149852f405010d4bcdb9df699b6ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-06 14:28:17</sys_updated_on>
+        <table>x_305360_shopping_shopping_item</table>
+    </sys_data_policy_rule>
+</record_update>
